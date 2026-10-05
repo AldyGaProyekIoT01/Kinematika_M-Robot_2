@@ -1,0 +1,1 @@
+#Replace file "mobile_base_gazebo.xacro" in ros2_ws/src/robin_description/urdf with file "mobile_base_gazebo.xacro" in this repository.
